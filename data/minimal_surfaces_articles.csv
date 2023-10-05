@@ -1,0 +1,116 @@
+Title,Authors,Published,Abstract,Link,PrimaryCategory,Categories
+Minimal surfaces in S^2xS^2,"Francisco Torralbo, Francisco Urbano",2013-01-08 16:22:24+00:00,"A general study of minimal surfaces of the Riemannian product of two spheres
+S^2xS^2 is tackled. We stablish a local correspondence between (non-complex)
+minimal surfaces of S^2xS^2 and certain pair of minimal surfaces of the sphere
+S^3. This correspondence also allows us to link minimal surfaces in S^3 and in
+the Riemannian product S^2xR. Some rigidity results for compact minimal
+surfaces are also obtained.",http://arxiv.org/pdf/1301.1580v1,math.DG,"['math.DG', '53C42 (Primary) 53C40 (Secondary)']"
+Compactness of conformal Chern-minimal surfaces in Hermitian surface,Xiaowei Xu,2023-09-07 13:50:02+00:00,"The Chern-minimal surfaces in Hermitian surface play a similar role as
+minimal surfaces in K\""ahler surface (see \cite{[PX-21]}) from the viewpoint of
+submanifolds. This paper studies the compactness of Chern-minimal surfaces. We
+prove that any sequence $\{f_n\}$ of conformal Chern-minimal maps from closed
+Riemann surface $(\Sigma,\emph{\texttt{j}})$ into a compact Hermitian surface
+$(M, J, h)$ with bounded area has a bubble tree limit, which consisting of a
+Chern-minimal map $f_0$ from $\Sigma$ into $M$ and a finite set of
+Chern-minimal maps from $S^2$ into $M$. We also show that the limit preserves
+area and homotopy class.",http://arxiv.org/pdf/2309.03718v1,math.DG,['math.DG']
+Barriers to Topologically Minimal Surfaces,David Bachman,2009-03-10 14:43:54+00:00,"In earlier work we introduced topologically minimal surfaces as the analogue
+of geometrically minimal surfaces. Here we strengthen the analogy by showing
+that complicated amalgamations act as barriers to low genus, topologically
+minimal surfaces.",http://arxiv.org/pdf/0903.1692v1,math.GT,"['math.GT', '57M99']"
+Generalized Bernstein Theorem for Stable Minimal Plateau Surfaces,Gaoming Wang,2022-10-20 18:04:52+00:00,"In this paper, we consider a Generalized Bernstein Theorem for a type of
+generalized minimal surfaces, namely minimal Plateau surfaces. We show that if
+an orientable minimal Plateau surface is stable and has quadratic area growth
+in $\mathbb{R}^3 $, then it is flat.",http://arxiv.org/pdf/2210.11500v1,math.DG,"['math.DG', '53A10']"
+A Correspondence Between Maximal Surfaces and Timelike Minimal Surfaces in $\mathbb{L}^3$,Aryaman Patel,2019-09-17 12:17:19+00:00,"We show that to every maximal surface with conelike singularities in
+Lorentz-Minkowski space $\mathbb{L}^3$ that can be locally represented as the
+graph of a smooth function, there exists a corresponding timelike minimal
+surface in $\mathbb{L}^3$. There exists a linear transformation between such a
+maximal surface and its corresponding timelike minimal surface and it maps the
+singularities of one to the singularities of the other. Moreover, this
+transformation establishes a one-one correspondence between such maximal
+surfaces and timelike minimal surfaces and also preserves the one-one property
+of the Gauss map. This leads to a Kobayashi type theorem for timelike minimal
+surfaces in $\mathbb{L}^3$. Finally, we derive some non-trivial identities
+using existing Euler-Ramanujan identities, and some familiar timelike minimal
+surfaces in parametric form.",http://arxiv.org/pdf/1909.07744v1,math.DG,['math.DG']
+Exotic Minimal Surfaces,Francisco J. Lopez,2010-04-15 15:38:54+00:00,"We prove a general fusion theorem for complete orientable minimal surfaces in
+$\mathbb{R}^3$ with finite total curvature. As a consequence, complete
+orientable minimal surfaces of weak finite total curvature with exotic geometry
+are produced. More specifically, universal surfaces (i.e., surfaces from which
+all minimal surfaces can be recovered) and space-filling surfaces with
+arbitrary genus and no symmetries.",http://arxiv.org/pdf/1004.2656v1,math.DG,"['math.DG', '53A10 (Primary), 49Q05 (Secondary), 49Q10, 53C42']"
+Minimal surfaces and the new main inequality,"Vladimir Markovic, Nathaniel Sagman",2022-12-31 16:47:10+00:00,"We establish the new main inequality as a minimizing criterion for minimal
+maps to products of $\mathbb{R}$-trees, and the infinitesimal new main
+inequality as a stability criterion for minimal maps to $\mathbb{R}^n$. Along
+the way, we develop a new perspective on destabilizing minimal surfaces in
+$\mathbb{R}^n$, and as a consequence we reprove the instability of some
+classical minimal surfaces; for example, the Enneper surface.",http://arxiv.org/pdf/2301.00249v2,math.DG,['math.DG']
+Ruled minimal surfaces in $\Bbb R^3$ with density $e^z$,"Nguyen Minh Hoang, Doan The Hieu",2009-01-25 15:38:02+00:00,"We classify ruled minimal surfaces in $\Bbb R^3$ with density $e^z.$ It is
+showed that there is no noncylindrical ruled minimal surface and there is a
+family of cylindrical ruled minimal surfaces in $\Bbb R^3$ with density $e^z.$
+It is also proved that all translation minimal surfaces are ruled.",http://arxiv.org/pdf/0901.3904v2,math.DG,"['math.DG', '53C25 (Primary), 53A10 (Secondary), 49Q05']"
+Uniformization of surfaces with boundary and the application to the triple junction surfaces with negative Euler characteristic,Gaoming Wang,2021-10-25 05:56:34+00:00,"The conformal structure on minimal surfaces plays a key role in studying the
+properties of minimal surfaces. Here we extend the results of uniformization of
+surfaces with boundary to get the (weak) uniformization results for triple
+junction surfaces.",http://arxiv.org/pdf/2110.12656v1,math.DG,['math.DG']
+Transforms for minimal surfaces in the 5-sphere,"J. Bolton, L. Vrancken",2005-02-17 09:20:30+00:00,"We define two transforms between minimal surfaces with non-circular ellipse
+of curvature in the 5-sphere, and show how this enables us to construct, from
+one such surface, a sequence of such surfaces. We also use the transforms to
+show how to associate to such a surface a corresponding ruled minimal
+Lagrangian submanifold of complex projective 3-space. We illustrate this
+explicitly in the case of bipolar minimal surfaces.",http://arxiv.org/pdf/math/0502370v1,math.DG,"['math.DG', '53B25; 53B20']"
+Ruh-Vilms Theorems For Minimal Surfaces Without Complex Points and Minimal Lagrangian Surfaces in $\mathbb C P^2$,"Josef F. Dorfmeister, Shimpei Kobayashi, Hui Ma",2019-09-07 08:00:49+00:00,"In this paper we investigate surfaces in $\mathbb C P^2$ without complex
+points and characterize the minimal surfaces without complex points and the
+minimal Lagrangian surfaces by Ruh-Vilms type theorems. We also discuss the
+liftability of an immersion from a surface to $\mathbb C P^2$ into $S^5$ in
+Appendix A.",http://arxiv.org/pdf/1909.03207v1,math.DG,"['math.DG', 'Primary 53A10, 53B30, 58D10, Secondary 53C42']"
+Classification of minimal Lorentz surfaces in indefinite space forms with arbitrary codimension and arbitrary index,Bang-Yen Chen,2013-07-15 14:46:08+00:00,"Since J. L. Lagrange initiated in 1760 the study of minimal surfaces of
+Euclidean 3-space, minimal surfaces in real space forms have been studied
+extensively by many mathematicians during the last two and half centuries. In
+contrast, so far very few results on minimal Lorentz surfaces in indefinite
+space forms are known. Hence, in this paper we investigate minimal Lorentz
+surfaces in arbitrary indefinite space forms. As a consequence, we obtain
+several classification results for minimal Lorentz surfaces in indefinite space
+forms. In particular, we completely classify all minimal Lorentz surfaces in a
+pseudo-Euclidean space $\mathbb E^m_s$ with arbitrary dimension $m$ and
+arbitrary index $s$.",http://arxiv.org/pdf/1307.3969v1,math.DG,['math.DG']
+Minimal Surfaces in the Four-Dimensional Euclidean Space,"Georgi Ganchev, Velichka Milousheva",2008-06-20 07:54:35+00:00,"We prove that the Gauss curvature and the curvature of the normal connection
+of any minimal surface in the four dimensional Euclidean space satisfy an
+inequality, which generates two classes of minimal surfaces: minimal surfaces
+of general type and minimal super-conformal surfaces. We prove a Bonnet-type
+theorem for strongly regular minimal surfaces of general type in terms of their
+invariants. We introduce canonical parameters on strongly regular minimal
+surfaces of general type and prove that any such a surface is determined up to
+a motion by two invariant functions satisfying a system of two natural partial
+differential equations. On any minimal surface of the basic class of non
+strongly regular minimal surfaces we define canonical parameters and prove that
+any such a surface is determined up to a motion by two invariant functions of
+one variable satisfying a system of two natural ordinary differential
+equations. We find a geometric description of this class of non strongly
+regular minimal surfaces.",http://arxiv.org/pdf/0806.3334v1,math.DG,"['math.DG', 'math.AP', '53A07; 53A10']"
+"Finite Decomposition of Minimal surfaces, Maximal surfaces, Timelike Minimal surfaces and Born-Infeld solitons","Rukmini Dey, Kohinoor Ghosh, Sidharth Soundararajan",2020-10-09 07:26:24+00:00,"We show that the height function of Scherk's second surface decomposes into a
+finite sum of scaled and translated versions of itself, using an Euler
+Ramanujan identity. A similar result appears in R. Kamien's work on liquid
+crystals where he shows (using an Euler-Ramanujan identity) that the Scherk's
+first surface decomposes into a finite sum of scaled and translated versions of
+itself. We give another finite decomposition of the height function of the
+Scherk's first surface in terms of translated helicoids and scaled and
+translated Scherk's first surface. We give some more examples, for instance a
+(complex) maximal surface and a (complex) BI soliton. We then show, using the
+Weierstrass-Enneper representation of minimal (maximal) surfaces, that one can
+decompose the height function of a minimal (maximal) surface into finite sums
+of height functions of surfaces which, upon change of coordinates, turn out to
+be minimal (maximal) surfaces, each minimal (maximal) w.r.t. to its own new
+coordinates. We then exhibit a general property of minimal surfaces, maximal
+surfaces, timelike minimal surfaces and Born-Infeld soliton surfaces that their
+local height functions $z=Z(x,y)$ split into finite sum of scaled and
+translated versions of functions of the same form. Upto scaling these new
+functions are height functions of the minimal surfaces, maximal surfaces,
+timelike minimal surfaces and Born-Infeld soliton surfaces respectively.
+Lastly, we exhibit a foliation of ${\mathbb R}^3$ minus certain lines by
+shifted helicoids (which appear in one of the Euler-Ramanujan identities).",http://arxiv.org/pdf/2010.04405v3,math.DG,"['math.DG', 'cond-mat.soft']"
+Decomposition of log crepant birational morphisms between log terminal surfaces,Shigetaka Fukuda,1999-06-22 03:30:22+00:00,"We prove that every log crepant birational morphism between log terminal
+surfaces is decomposed into log-flopping type divisorial contraction morphisms
+and log blow-downs. Repeating these two kinds of contractions we reach a
+minimal log minimal surface from any log minimal surface.",http://arxiv.org/pdf/math/9906143v1,math.AG,"['math.AG', '14E05;14E30;14E35']"
