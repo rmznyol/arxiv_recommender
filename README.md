@@ -2,7 +2,10 @@
 
 ### Main Suggestions and TODOs:
 - Follow the 'dev' branch until finalized
-- Use black to reformat files before updating
+- Use black to reformat files before updating: 
+    when you create & update a file `<file_name>`
+    - first run `black <file_name>`
+    - then add and commit the file.
 - Stick to Modular programming as much as possible (every 'function' should have a script and class if necessary)
 - also add Learning Branch
 
