@@ -37,9 +37,9 @@ search = arxiv.Search(
 )
 
 # Iterate through the search results and append data to the DataFrame
-iterator_with_tqdm = tqdm(search.results())
+iterator_with_tqdm = tqdm(search.results(), total=max_results)
 for result in iterator_with_tqdm:
-    iterator_with_tqdm.set_description(f"Loading {result.title} ...")
+    iterator_with_tqdm.set_description(f"Loading {result.title[:20]} ...")
     article_info = {
         "Title": result.title,
         "Authors": ", ".join([author.name for author in result.authors]),
@@ -49,7 +49,12 @@ for result in iterator_with_tqdm:
         "PrimaryCategory": result.primary_category,
         "Categories": result.categories,
     }
-    df = pd.concat([df, pd.DataFrame([article_info])], ignore_index=True)
+    df_article = pd.DataFrame([article_info])
+    df = pd.concat(
+        [df_iter for df_iter in [df, df_article] if not df_iter.empty],
+        ignore_index=True,
+    )
 
 # Save the DataFrame to a CSV file
-df.to_csv("data/minimal_surfaces_articles.csv", index=False)
+file_path = f'data/{query.strip().replace(" ", "_").lower()}_articles.csv'
+df.to_csv(file_path, index=False)

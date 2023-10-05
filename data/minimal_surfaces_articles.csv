@@ -114,3 +114,30 @@ Decomposition of log crepant birational morphisms between log terminal surfaces,
 surfaces is decomposed into log-flopping type divisorial contraction morphisms
 and log blow-downs. Repeating these two kinds of contractions we reach a
 minimal log minimal surface from any log minimal surface.",http://arxiv.org/pdf/math/9906143v1,math.AG,"['math.AG', '14E05;14E30;14E35']"
+On embedded minimal surfaces of Costa-Hoffman-Meeks type in hyperbolic space,"Asun Jiménez Grande, Graham Smith",2018-05-30 19:37:24+00:00,"We present a new construction of embedded minimal surfaces in hyperbolic
+space with $3$ asymptotically totally geodesic ends and arbitrary finite genus.",http://arxiv.org/pdf/1805.12194v1,math.DG,"['math.DG', '53A10']"
+Bour's spacelike maximal and timelike minimal surfaces in the 3-dimensional Minkowski space,Erhan Guler,2014-02-20 11:11:15+00:00,"Bour's minimal surface has remarkable properties in three dimensional
+Minkowski space. We reveal the definite and indefinite cases of the Bour's
+surface using Weierstrass representations, and give some differential geometric
+properties of the astonishing maximal and minimal surfaces.",http://arxiv.org/pdf/1402.4966v1,math.DG,['math.DG']
+Harmonic parametrization of surfaces of arbitrary genus,Peter Connor,2016-02-17 01:44:11+00:00,"The Weierstrass representation for minimal surfaces in $\mathbb{R}^3$
+provides a flexible method for constructing minimal surfaces of arbitrary
+genus. The topological limitations of minimal surfaces interfere with this
+providing a more general geometric modeling tool. Minimal surfaces lie in the
+larger class of harmonic surfaces, which in general don't have the same
+topological limitations of minimal surfaces and can have complicated embedded
+ends. In this paper we demonstrate the flexibility of using the Weierstrass
+representation for harmonic surfaces to combine embedded harmonic ends together
+to construct embedded harmonic surfaces of arbitrary genus.",http://arxiv.org/pdf/1602.05265v2,math.DG,"['math.DG', '53A10, 49Q05, 53C42']"
+Minimal Surface Linear Combinatoin Theorem,"Michael Dorff, Stephen Taylor",2006-10-24 00:54:40+00:00,"Given two univalent harmonic mappings $f_1$ and $f_2$ on $\mathbb{D}$, which
+lift to minimal surfaces via the Weierstrass-Enneper representation theorem, we
+give necessary and sufficient conditions for $f_3=(1-s)f_1+sf_2$ to lift to a
+minimal surface for $s\in[0,1]$. We then construct such mappings from Enneper's
+surface to Scherk's singularly periodic surface, Sckerk's doubly periodic
+surface to the catenoid, and the 4-Enneper surface to the 4-noid.",http://arxiv.org/pdf/math/0610706v1,math.DG,['math.DG']
+Min-max free boundary minimal surface with genus at least one,Yuchin Sun,2022-03-12 01:35:16+00:00,"In this paper, we build up a min-max theory for minimal surfaces using
+sweepouts of surfaces of genus $g\geq 1$ and $m\geq 1$ ideal boundary
+components. We show that the width for the area functional can be achieved by a
+bubble tree limit consisting of branched genus $g$ free boundary minimal
+surfaces with nodes, and possibly finitely many branched minimal spheres and
+free boundary minimal disks.",http://arxiv.org/pdf/2203.06305v1,math.DG,['math.DG']
