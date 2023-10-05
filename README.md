@@ -12,7 +12,10 @@
 ### How to fetch article data and more:
 1. Clone this repo
 2. Create a conda env and install requirements: `conda create --name <env> --file requirements.txt`
-3. run `$python abstractFetcher.py`, which will ask for your query and how many articles you wish to save. (searched by relevance) 
+3. run `$python abstractFetcher.py`, which will ask for your query and how many articles you wish to save. (searched by relevance)
+4. Find the resulting data under the `data` directory with the name `<query>_articles.csv`. 
 
 ### Learning List:
+Main idea to follow LinkedIn Learning courses which are mostly free to us.
+Resources
 1. ? 
