@@ -17,7 +17,6 @@
 
 ### Learning List:
 In order to create a nlp - based content recommender system, according to ChatGPT, we roughly need to learn the following: 
-What we need to cover according to ChatGPT:
 1. Natural Language Processing (NLP):
     - Text Preprocessing: Learn how to clean and preprocess textual data, including tasks like tokenization, stemming, lemmatization, and stop-word removal.
     - Text Representation: Understand different methods for representing text data, such as bag-of-words (BoW), TF-IDF (Term Frequency-Inverse Document Frequency), and word embeddings (Word2Vec, GloVe).
