@@ -30,3 +30,7 @@ In order to create a nlp - based content recommender system, according to ChatGP
 Current suggested learning path:
 1. https://www.linkedin.com/learning/nlp-with-python-for-machine-learning-essential-training
 2. https://www.linkedin.com/learning/building-recommender-systems-with-machine-learning-and-ai (Probably slightly outdated in terms of which libraries they use):
+
+Resources:
+- https://developers.google.com/machine-learning/recommendation
+- https://colab.research.google.com/drive/1sdJORFmKNGULZQdqgF7EtoqO1hELbemm#scrollTo=f6e41ca6
