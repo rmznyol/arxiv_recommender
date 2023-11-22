@@ -48,5 +48,6 @@ def ProcessData(query, max_results):
         f"Vectorized Title data is successfully saved at @ {vectorized_title_data_file_path}"
     )
 
+
 if __name__ == "__main__":
-    ProcessData('Ramazan Yol', 50)
+    ProcessData("Ramazan Yol", 50)

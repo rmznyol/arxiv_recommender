@@ -3,14 +3,16 @@ import pandas as pd
 from tqdm import tqdm
 
 
-def fetch_and_save(query: str, max_results: int, save_it_by_name = False):
+def fetch_and_save(query: str, max_results: int, save_it_by_name=False):
 
     df = fetch_data(query, max_results)
 
     if save_it_by_name:
-        file_path_to_save = f'./data/{query.strip().replace(" ", "_").lower()}_articles.csv'
+        file_path_to_save = (
+            f'./data/{query.strip().replace(" ", "_").lower()}_articles.csv'
+        )
     else:
-        file_path_to_save = './data/recorded_articles.csv'
+        file_path_to_save = "./data/recorded_articles.csv"
 
     df.to_csv(file_path_to_save, index=False)
 

@@ -1,5 +1,5 @@
 import numpy as np
-import pandas as pd 
+import pandas as pd
 import joblib
 from heapq import heappush, heappushpop
 from src.abstractFetcher import fetch_user_data
@@ -41,8 +41,8 @@ def cosine_similarity(vector_a, vector_b):
 
 
 def sparse_dot(vector_a, vector_b):
-    result = (vector_a * vector_b.T) 
-    # if two vectors are orthogonal then the output vector is empty 
+    result = vector_a * vector_b.T
+    # if two vectors are orthogonal then the output vector is empty
     # thus we need to handle it here seperately
     return result.data[0] if result else 0
 
@@ -52,11 +52,10 @@ def sparse_norm(vector_a):
 
 
 class ArxivRecommender:
-
     def __init__(
         self,
         feature_weights_array=[0, 0, 0.8, 0.2],
-        authors = pd.read_csv('data/recorded_articles.csv', header=0, usecols=[1]),
+        authors=pd.read_csv("data/recorded_articles.csv", header=0, usecols=[1]),
         primary_category_array=np.load("data/primary_category_array.npy"),
         categories_array=np.load("data/categories_array.npy"),
         abstract_vector_data=joblib.load("data/Abstract_tfidf_sparse_matrix.pkl"),
@@ -126,14 +125,17 @@ class ArxivRecommender:
         # we need to sort it by similarity and rank them bc heap isnt sorted
         recommendations.sort(key=lambda x: x[0], reverse=True)
 
-
         recommendations_display = self._indices_to_articles(recommendations)
         return recommendations_display
 
     def _is_user(self, index, user_name):
         article_authors = self.authors.iloc[index].Authors
 
-        return [author for author in article_authors.split(',') if author.strip() == user_name]
+        return [
+            author
+            for author in article_authors.split(",")
+            if author.strip() == user_name
+        ]
 
     def _get_article_score(
         self,
@@ -214,19 +216,20 @@ class ArxivRecommender:
         # get the most frequent
         # convert it to array
         ...
-    
+
     def _indices_to_articles(self, recommendations):
         print(len(recommendations))
         rows_to_keep = [0] + [index + 1 for _, index in recommendations]
-        exclude = [i for i in range(self.number_of_stored_data_points + 1) if i not in rows_to_keep]
-        output = pd.read_csv('./data/recorded_articles.csv',
-                              skiprows = exclude,
-                              header=0)
-        output['Similarity Scores'] = [similarity_score for similarity_score, _ in recommendations]
+        exclude = [
+            i
+            for i in range(self.number_of_stored_data_points + 1)
+            if i not in rows_to_keep
+        ]
+        output = pd.read_csv("./data/recorded_articles.csv", skiprows=exclude, header=0)
+        output["Similarity Scores"] = [
+            similarity_score for similarity_score, _ in recommendations
+        ]
         return output
-    
-
-
 
 
 if __name__ == "__main__":
