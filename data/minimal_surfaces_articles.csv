@@ -114,12 +114,12 @@ Decomposition of log crepant birational morphisms between log terminal surfaces,
 surfaces is decomposed into log-flopping type divisorial contraction morphisms
 and log blow-downs. Repeating these two kinds of contractions we reach a
 minimal log minimal surface from any log minimal surface.",http://arxiv.org/pdf/math/9906143v1,math.AG,"['math.AG', '14E05;14E30;14E35']"
-On embedded minimal surfaces of Costa-Hoffman-Meeks type in hyperbolic space,"Asun Jiménez Grande, Graham Smith",2018-05-30 19:37:24+00:00,"We present a new construction of embedded minimal surfaces in hyperbolic
-space with $3$ asymptotically totally geodesic ends and arbitrary finite genus.",http://arxiv.org/pdf/1805.12194v1,math.DG,"['math.DG', '53A10']"
 Bour's spacelike maximal and timelike minimal surfaces in the 3-dimensional Minkowski space,Erhan Guler,2014-02-20 11:11:15+00:00,"Bour's minimal surface has remarkable properties in three dimensional
 Minkowski space. We reveal the definite and indefinite cases of the Bour's
 surface using Weierstrass representations, and give some differential geometric
 properties of the astonishing maximal and minimal surfaces.",http://arxiv.org/pdf/1402.4966v1,math.DG,['math.DG']
+On embedded minimal surfaces of Costa-Hoffman-Meeks type in hyperbolic space,"Asun Jiménez Grande, Graham Smith",2018-05-30 19:37:24+00:00,"We present a new construction of embedded minimal surfaces in hyperbolic
+space with $3$ asymptotically totally geodesic ends and arbitrary finite genus.",http://arxiv.org/pdf/1805.12194v1,math.DG,"['math.DG', '53A10']"
 Harmonic parametrization of surfaces of arbitrary genus,Peter Connor,2016-02-17 01:44:11+00:00,"The Weierstrass representation for minimal surfaces in $\mathbb{R}^3$
 provides a flexible method for constructing minimal surfaces of arbitrary
 genus. The topological limitations of minimal surfaces interfere with this
@@ -141,3 +141,262 @@ components. We show that the width for the area functional can be achieved by a
 bubble tree limit consisting of branched genus $g$ free boundary minimal
 surfaces with nodes, and possibly finitely many branched minimal spheres and
 free boundary minimal disks.",http://arxiv.org/pdf/2203.06305v1,math.DG,['math.DG']
+Parametric polynomial minimal surfaces of arbitrary degree,"Gang Xu, Guozhao Wang",2010-08-01 22:58:04+00:00,"Weierstrass representation is a classical parameterization of minimal
+surfaces. However, two functions should be specified to construct the
+parametric form in Weierestrass representation. In this paper, we propose an
+explicit parametric form for a class of parametric polynomial minimal surfaces
+of arbitrary degree. It includes the classical Enneper surface for cubic case.
+The proposed minimal surfaces also have some interesting properties such as
+symmetry, containing straight lines and self-intersections. According to the
+shape properties, the proposed minimal surface can be classified into four
+categories with respect to $n=4k-1$ $n=4k+1$, $n=4k$ and $n=4k+2$. The explicit
+parametric form of corresponding conjugate minimal surfaces is given and the
+isometric deformation is also implemented.",http://arxiv.org/pdf/1008.0208v2,cs.GR,"['cs.GR', 'math.DG']"
+Minimal families of curves on surfaces,Niels Lubbes,2013-02-27 07:43:06+00:00,"A minimal family of curves on an embedded surface is defined as a
+1-dimensional family of rational curves of minimal degree, which cover the
+surface. We classify such minimal families using constructive methods. This
+allows us to compute the minimal families of a given surface.
+  The classification of minimal families of curves can be reduced to the
+classification of minimal families which cover weak Del Pezzo surfaces. We
+classify the minimal families of weak Del Pezzo surfaces and present a table
+with the number of minimal families of each weak Del Pezzo surface up to Weyl
+equivalence.
+  As an application of this classification we generalize some results of
+Schicho. We classify algebraic surfaces which carry a family of conics. We
+determine the minimal lexicographic degree for the parametrization of a surface
+which carries at least 2 minimal families.",http://arxiv.org/pdf/1302.6687v2,math.AG,['math.AG']
+Trigonal minimal surfaces in flat tori,Toshihiro Shoda,2007-03-21 05:22:21+00:00,"In this paper, we study trigonal minimal surfaces in flat tori. First, we
+show a topological obstruction similar to that of hyperelliptic minimal
+surfaces. Actually, the genus of trigonal minimal surface in 3-dimensional flat
+torus must be 1 (mod 3). Next, we construct an explicit example in the higher
+codimensional case. This surface satisfies good properties and is theoretically
+distinct from traditional examples.",http://arxiv.org/pdf/math/0703622v2,math.DG,"['math.DG', '53A10, 53C42']"
+Minimal hard surface-unlink and classical unlink diagrams,Michal Jablonowski,2017-06-28 12:38:02+00:00,"We describe a method for generating minimal hard prime surface-link diagrams.
+We extend the known examples of minimal hard prime classical unknot and unlink
+diagrams up to three components and generate figures of all minimal hard prime
+surface-unknot and surface-unlink diagrams with prime base surface components
+up to ten crossings.",http://arxiv.org/pdf/1706.09253v2,math.GT,"['math.GT', 'math.CO']"
+Minimal n-Noids in hyperbolic and anti-de Sitter 3-space,"Alexander I. Bobenko, Sebastian Heller, Nicholas Schmitt",2019-02-21 12:04:55+00:00,"We construct minimal surfaces in hyperbolic and anti-de Sitter 3-space with
+the topology of a $n$-punctured sphere by loop group factorization methods. The
+end behavior of the surfaces is based on the asymptotics of Delaunay-type
+surfaces, i.e., rotational symmetric minimal cylinders. The minimal surfaces in
+$\mathrm{H}^3$ extend to Willmore surfaces in the conformal 3-sphere
+$\mathrm{S}^3=\mathrm{H}^3\cup\mathrm{S}^2\cup\mathrm{H}^3$.",http://arxiv.org/pdf/1902.07992v1,math.DG,['math.DG']
+Teichmuller theory and handle addition for minimal surfaces,"Matthias Weber, Michael Wolf",1998-06-17 12:27:06+00:00,"We develop Teichmuller theoretical methods to construct new minimal surfaces
+in $\BE^3$ by adding handles and planar ends to existing minimal surfaces in
+$\BE^3$. We exhibit this method on an interesting class of minimal surfaces
+which are likely to be embedded, and have a low degree Gau\ss map for their
+genus; the (Weierstrass data) period problem for these surfaces is of arbitrary
+dimension.
+  In particular, we exhibit a two-parameter family of complete minimal surfaces
+in the Euclidean three-space $\BE^3$ which generalize the breakthrough minimal
+surface of C. Costa; these new surfaces are embedded (at least) outside a
+compact set, and are indexed (roughly) by the number of ends they have and
+their genus. They have at most eight self-symmetries despite being of
+arbitrarily large genus, and are interesting for a number of reasons. Moreover,
+our methods also extend to prove that some natural candidate classes of
+surfaces cannot be realized as minimal surfaces in $\BE^3$. As a result of both
+aspects of this work, we obtain a classification of a family of surfaces as
+either realizable or unrealizable as minimal surfaces.",http://arxiv.org/pdf/math/9806089v2,math.DG,"['math.DG', '53A10, 30F60']"
+The Cauchy problem for Lie-minimal surfaces,Emilio Musso,2003-03-05 22:05:13+00:00,"In the present paper we study the Lie sphere geometry of Legendre surfaces by
+the method of moving frame and we prove an existence theorem for real-analytic
+Lie-minimal Legendre surfaces.",http://arxiv.org/pdf/math/0303073v1,math.DG,"['math.DG', '53A10; 58A15']"
+On topologically minimal surfaces of high genus,Jung Hoon Lee,2013-01-21 04:54:52+00:00,"We show that a 3-manifold containing an incompressible surface has
+topologically minimal surfaces of arbitrary high genus.",http://arxiv.org/pdf/1301.4752v1,math.GT,"['math.GT', '57M50']"
+Two flat structures on minimal surfaces,Hojoo Lee,2018-02-21 15:36:19+00:00,"In this expository article, we illustrate how two independent flat structures
+on minimal surfaces induce a harmonic function, which captures the uniqueness
+of Enneper's surface.",http://arxiv.org/pdf/1802.08169v1,math.DG,"['math.DG', '53A10, 49Q05']"
+Weingarten Surfaces Associated to Laguerre Minimal Surfaces,"Laredo Rennan Pereira Santos, Armando Mauro Vasquez Corro",2022-09-28 18:06:21+00:00,"In the work \cite{Laredo} the author shows that every hypersurface in
+Euclidean space is locally associated to the unit sphere by a sphere
+congruence, whose radius function $R$ is a geometric invariant of hypersurface.
+In this paper we define for any surface $\Sigma$ its spherical mean curvature
+$H_S$ which depends on principal curvatures of $\Sigma$ and the radius function
+$R$. Then we consider two classes of surfaces: the ones with $H_S = 0$, called
+$H_1$-surfaces, and the surfaces with spherical mean curvature of harmonic
+type, named $H_2$-surfaces. We provide for each these classes a
+Weierstrass-type representation depending on three holomorphic functions and we
+prove that the $H_1$-surfaces are associated to the minimal surfaces, whereas
+the $H_2$-surfaces are related to the Laguerre minimal surfaces. As application
+we provide a new Weierstrass-type representation for the Laguerre minimal
+surfaces - and in particular for the minimal surfaces - in such a way that the
+same holomorphic data provide examples in $H_1$-surface/minimal surface classes
+or in $H_2$-surface/Laguerre minimal surface classes. We also characterize the
+rotational cases, what allow us finding a complete rotational Laguerre minimal
+surface.",http://arxiv.org/pdf/2209.14336v1,math.DG,"['math.DG', '53A05, 53A07, 30F15', 'G.0']"
+Lectures on Minimal Surfaces,Jens Hoppe,2019-03-28 15:48:02+00:00,"Some elementary considerations are presented concerning Catenoids and their
+stability, separable minimal hypersurfaces, minimal surfaces obtainable by
+rotating shapes, determinantal varieties, minimal tori in S3, the minimality in
+Rnk of the ordered set of k orthogonal equal-length n-vectors, and
+U(1)-invariant minimal 3-manifolds.",http://arxiv.org/pdf/1903.12062v2,math.DG,['math.DG']
+New complex analytic methods in the study of non-orientable minimal surfaces in $\mathbb{R}^n$,"Antonio Alarcon, Franc Forstneric, Francisco J. Lopez",2016-03-05 07:39:27+00:00,"The aim of this work is to adapt the complex analytic methods originating in
+modern Oka theory to the study of non-orientable conformal minimal surfaces in
+$\mathbb{R}^n$ for any $n\ge 3$. These methods, which we develop essentially
+from the first principles, enable us to prove that the space of conformal
+minimal immersions of a given bordered non-orientable surface to $\mathbb{R}^n$
+is a real analytic Banach manifold, obtain approximation results of
+Runge-Mergelyan type for conformal minimal immersions from non-orientable
+surfaces, and show general position theorems for non-orientable conformal
+minimal surfaces in $\mathbb{R}^n$. We also give the first known example of a
+properly embedded non-orientable minimal surface in $\mathbb{R}^4$; a Mobius
+strip.
+  All our new tools mentioned above apply to non-orientable minimal surfaces
+endowed with a fixed choice of a conformal structure. This enables us to obtain
+significant new applications to the global theory of non-orientable minimal
+surfaces. In particular, we construct proper non-orientable conformal minimal
+surfaces in $\mathbb{R}^n$ with any given conformal structure, complete
+non-orientable minimal surfaces in $\mathbb{R}^n$ with arbitrary conformal type
+whose generalized Gauss map is nondegenerate and omits $n$ hyperplanes of
+$\mathbb{CP}^{n-1}$ in general position, complete non-orientable minimal
+surfaces bounded by Jordan curves, and complete proper non-orientable minimal
+surfaces normalized by bordered surfaces in $p$-convex domains of
+$\mathbb{R}^n$.",http://arxiv.org/pdf/1603.01691v2,math.DG,"['math.DG', 'math.CV']"
+Unstable minimal surfaces of annulus type in manifolds,Hwajeong Kim,2006-03-27 11:40:17+00:00,"Unstable minimal surfaces are the unstable stationary points of the
+Dirichlet-Integral. In order to obtain unstable solutions, the method of the
+gradient flow together with the minimax-principle is generally used. The
+application of this method for minimal surfaces in the Euclidean spacce was
+presented in \cite{s3}. We extend this theory for obtaining unstable minimal
+surfaces in Riemannian manifolds. In particular, we handle minimal surfaces of
+annulus type, i.e. we prescribe two Jordan curves of class $C^3$ in a
+Riemannian manifold and prove the existence of unstable minimal surfaces of
+annulus type bounded by these curves.",http://arxiv.org/pdf/math/0603615v2,math.DG,"['math.DG', 'math.AP', '49Q05; 58E05']"
+Existence of minimal flows on nonorientable surfaces,"J. G. Espín Buendía, D. Peralta-Salas, G. Soler López",2016-08-31 09:42:50+00:00,"Surfaces admitting flows all whose orbits are dense are called minimal.
+Minimal orientable surfaces were characterized by J.C. Beni\`{e}re in 1998,
+leaving open the nonorientable case. This paper fills this gap providing a
+characterization of minimal nonorientable surfaces of finite genus. We also
+construct an example of a minimal nonorientable surface with infinite genus and
+conjecture that any nonorientable surface without combinatorial boundary is
+minimal.",http://arxiv.org/pdf/1608.08788v2,math.DS,['math.DS']
+Minimal surfaces in Euclidean spaces by way of complex analysis,Franc Forstneric,2021-08-30 16:16:36+00:00,"This is an expanded version of my plenary lecture at the 8th European
+Congress of Mathematics in Portoro\v{z} on 23 June 2021. The main part of the
+paper is a survey of recent applications of complex-analytic techniques to the
+theory of conformal minimal surfaces in Euclidean spaces. New results concern
+approximation, interpolation, and general position properties of minimal
+surfaces, existence of minimal surfaces with a given Gauss map, and the
+Calabi-Yau problem for minimal surfaces. To be accessible to a wide audience,
+the article includes a self-contained elementary introduction to the theory of
+minimal surfaces in Euclidean spaces.",http://arxiv.org/pdf/2108.13347v2,math.DG,"['math.DG', 'Primary 53A10, Secondary 32H02']"
+Deformations of constant mean curvature surfaces preserving symmetries and the Hopf differential,"David Brander, Josef F. Dorfmeister",2013-02-09 12:26:54+00:00,"We define certain deformations between minimal and non-minimal constant mean
+curvature (CMC) surfaces in Euclidean space $E^3$ which preserve the Hopf
+differential. We prove that, given a CMC $H$ surface $f$, either minimal or
+not, and a fixed basepoint $z_0$ on this surface, there is a naturally defined
+family $f_h$, for all real $h$, of CMC $h$ surfaces that are tangent to $f$ at
+$z_0$, and which have the same Hopf differential. Given the classical
+Weierstrass data for a minimal surface, we give an explicit formula for the
+generalized Weierstrass data for the non-minimal surfaces $f_h$, and vice
+versa. As an application, we use this to give a well-defined dressing action on
+the class of minimal surfaces. In addition, we show that symmetries of certain
+types associated with the basepoint are preserved under the deformation, and
+this gives a canonical choice of basepoint for surfaces with symmetries. We use
+this to define new examples of non-minimal CMC surfaces naturally associated to
+known minimal surfaces with symmetries.",http://arxiv.org/pdf/1302.2228v1,math.DG,"['math.DG', 'Primary 53A10, Secondary 58D10']"
+Discrete projective minimal surfaces,"A. McCarthy, W. K. Schief",2018-01-25 14:47:51+00:00,"We propose a natural discretisation scheme for classical projective minimal
+surfaces. We follow the classical geometric characterisation and classification
+of projective minimal surfaces and introduce at each step canonical discrete
+models of the associated geometric notions and objects. Thus, we introduce
+discrete analogues of classical Lie quadrics and their envelopes and classify
+discrete projective minimal surfaces according to the cardinality of the class
+of envelopes. This leads to discrete versions of Godeaux-Rozet, Demoulin and
+Tzitzeica surfaces. The latter class of surfaces requires the introduction of
+certain discrete line congruences which may also be employed in the
+classification of discrete projective minimal surfaces. The classification
+scheme is based on the notion of discrete surfaces which are in asymptotic
+correspondence. In this context, we set down a discrete analogue of a classical
+theorem which states that an envelope (of the Lie quadrics) of a surface is in
+asymptotic correspondence with the surface if and only if the surface is either
+projective minimal or a Q surface. Accordingly, we present a geometric
+definition of discrete Q surfaces and their relatives, namely discrete
+counterparts of classical semi-Q, complex, doubly Q and doubly complex
+surfaces.",http://arxiv.org/pdf/1801.08428v1,math.DG,['math.DG']
+Congruence of minimal surfaces,Ognian Kassabov,2014-12-05 20:59:38+00:00,"An interesting problem in classical differential geometry is to find methods
+to prove that two surfaces defined by different charts actually coincide up to
+position in space. In a previous paper we proposed a method in this direction
+for minimal surfaces. Here we explain not only how this method works but also
+how we can find the correspondence between the minimal surfaces, if they are
+congruent. We show that two families of minimal surfaces which are proved to be
+conjugate actually coincide and coincide with their associated surfaces. We
+also consider another family of minimal polynomial surfaces of degree 6 and we
+apply the method to show that some of them are congruent.",http://arxiv.org/pdf/1412.2130v2,math.DG,"['math.DG', '53A10']"
+Bi-quartic parametric polynomial minimal surfaces,"Ognian Kassabov, Krassimira Vlachkova",2015-03-31 18:47:04+00:00,"Minimal surfaces with isothermal parameters admitting B\'{e}zier
+representation were studied by Cosin and Monterde. They showed that, up to an
+affine transformation, the Enneper surface is the only bi-cubic isothermal
+minimal surface. Here we study bi-quartic isothermal minimal surfaces and
+establish the general form of their generating functions in the Weierstrass
+representation formula. We apply an approach proposed by Ganchev to compute the
+normal curvature and show that, in contrast to the bi-cubic case, there is a
+variety of bi-quartic isothermal minimal surfaces. Based on the Bezier
+representation we establish some geometric properties of the bi-quartic
+harmonic surfaces. Numerical experiments are visualized and presented to
+illustrate and support our results.",http://arxiv.org/pdf/1503.09159v1,math.DG,"['math.DG', '53A10, 65D17']"
+Minimal surfaces in the three dimensional sphere with high symmetry,"Sheng Bai, Chao Wang, Shicheng Wang",2018-04-15 20:16:46+00:00,"Using the Lawson's existence theorem of minimal surfaces and the symmetries
+of the Hopf fibration, we will construct symmetric embedded closed minimal
+surfaces in the three dimensional sphere. These surfaces contain the Clifford
+torus, the Lawson's minimal surfaces, and seven new minimal surfaces with
+genera 9, 25, 49, 121, 121, 361 and 841. We will also discuss the relation
+between such surfaces and the maximal extendable group actions on subsurfaces
+of the three dimensional sphere.",http://arxiv.org/pdf/1804.05421v2,math.GT,"['math.GT', 'math.DG', 'Primary 53A10, 53C42, 57M60, Secondary 57R18']"
+The uniqueness of the Enneper surfaces and Chern-Ricci functions on minimal surfaces,Hojoo Lee,2017-01-21 01:18:28+00:00,"We construct the first and second Chern-Ricci functions on negatively curved
+minimal surfaces in ${\mathbb{R}}^{3}$ using Gauss curvature and angle
+functions, and establish that they become harmonic functions on the minimal
+surfaces. We prove that a minimal surface has constant first Chern-Ricci
+function if and only if it is Enneper's surface. We explicitly determine the
+moduli space of minimal surfaces having constant second Chern-Ricci function,
+which contains catenoids, helicoids, and their associate families.",http://arxiv.org/pdf/1701.05958v2,math.DG,"['math.DG', '53A10, 49Q05']"
+The Weierstrass Representation always gives a minimal surface,Roshan Sharma,2012-08-28 15:38:21+00:00,"We give a simple, direct proof of the easy fact about the Weierstrass
+Representation, namely, that it always gives a minimal surface. Most
+presentations include the much harder converse that every simply connected
+minimal surface is given by the Weierstrass Representation.",http://arxiv.org/pdf/1208.5689v1,math.DG,['math.DG']
+Bridge surfaces with the topological minimality preserved by perturbation,Jung Hoon Lee,2015-12-07 04:41:02+00:00,"We show that except for $n = 2$ if a bridge surface for a knot is an index
+$n$ topologically minimal surface, then after a perturbation it is still
+topologically minimal with index at most $n+1$.",http://arxiv.org/pdf/1512.01908v1,math.GT,"['math.GT', '57M99']"
+A note on special polynomials and minimal surfaces,Peter Connor,2016-02-17 01:44:22+00:00,"When using Traizet's regeneration technique to construct minimal surfaces,
+the simplest nontrivial configurations are given as the roots of polynomials
+that satisfy a hypergeometric differential equation. We exhibit examples of
+simple minimal surfaces exhibiting the same behavior.",http://arxiv.org/pdf/1602.05266v1,math.DG,"['math.DG', '53A10, 49Q05, 53C42']"
+Boundary Curves of Free Boundary Minimal Surfaces,Zuhuan Yu,2019-10-19 13:05:45+00:00,"In this paper we investigate free boundary minimal surfaces in the unit ball
+in Euclidean 3-space, and by using holomorphic techniques we prove that
+intersection curves of free boundary minimal surfaces with the unit sphere are
+all circles.",http://arxiv.org/pdf/1910.09958v1,math.DG,"['math.DG', '53B25 53C40']"
+The minimal and next minimal volumes of normal KSBA stable surfaces with $p_g\ge 2$,Jinshan Chen,2023-08-02 23:40:52+00:00,"In this paper we investigate the minimal and the next minimal volumes of
+normal KSBA stable surfaces with $p_g\ge 2$. We show that in case of $|K_X|$
+not composed with a pencil, the minimal and next minimal volumes are $2p_g-4$
+and $2p_g-4+\frac{1}{3}$. In case of $|K_X|$ composed with a pencil, the
+minimal and next minimal volumes are $\frac{p_g-1}{p_g+1}(p_g-1)$ and
+$\mathrm{min}\{\frac{2p_g-2}{2p_g+1}(p_g-1), \frac{(3p_g-2)p_g-4}{3(p_g+2)}\}$.
+We also characterize the surfaces achieving the minimal volumes.",http://arxiv.org/pdf/2308.01473v3,math.AG,"['math.AG', '14J10, 14J29']"
+An approach for minimal surface family passing a curve,"Sedat Kahyaoğlu, Emin Kasap",2014-08-16 08:46:53+00:00,"We investigate minimal surfaces passing a given curve in $R^{3}$. Using the
+Frenet frame of a given curve and isothermal parameter, we derive the necessary
+and sufficient condition for minimal surface. Also we derive the parametric
+representation of two minimal surface families passing a circle and a helix as
+examples.",http://arxiv.org/pdf/1408.3723v1,math.DG,['math.DG']
+Unstable minimal surfaces in $\mathbb{R}^n$ and in products of hyperbolic surfaces,"Vladimir Markovic, Nathaniel Sagman, Peter Smillie",2022-06-06 22:44:46+00:00,"We prove that every unstable equivariant minimal surface in $\mathbb{R}^n$
+produces a maximal representation of a surface group into
+$\prod_{i=1}^n\textrm{PSL}(2,\mathbb{R})$ together with an unstable minimal
+surface in the corresponding product of closed hyperbolic surfaces. To do so,
+we lift the surface in $\mathbb{R}^n$ to a surface in a product of
+$\mathbb{R}$-trees, then deform to a surface in a product of closed hyperbolic
+surfaces. We show that instability in one context implies instability in the
+other two.",http://arxiv.org/pdf/2206.02938v1,math.DG,['math.DG']
+Canonical Coordinates and Natural Equations for Minimal Time-like Surfaces in $R^4_2$,"Georgi Ganchev, Krasimir Kanchev",2019-11-29 15:15:33+00:00,"We apply the complex analysis over the double numbers $D$ to study the
+minimal time-like surfaces in $R^4_2$. A minimal time-like surface which is
+free of degenerate points is said to be of general type. We divide the minimal
+time-like surfaces of general type into three types and prove that these
+surfaces admit special geometric (canonical) parameters. Then the geometry of
+the minimal time-like surfaces of general type is determined by the Gauss
+curvature $K$ and the curvature of the normal connection $\varkappa$,
+satisfying the system of natural equations for these surfaces. We prove the
+following: If $(K, \varkappa), \, K^2- \varkappa^2 > 0 $ is a solution to the
+system of natural equations, then there exists exactly one minimal time-like
+surface of the first type and exactly one minimal time-like surface of the
+second type with invariants $(K, \varkappa)$; if $(K, \varkappa),\, K^2-
+\varkappa^2 < 0 $ is a solution to the system of natural equations, then there
+exists exactly one minimal time-like surface of the third type with invariants
+$(K, \varkappa)$.",http://arxiv.org/pdf/1912.00014v1,math.DG,"['math.DG', '53A10 (Primary), 53B30 (Secondary)']"
+Locally Isometric Families of Minimal Surfaces,"Aaron Peterson, Stephen Taylor",2006-09-22 22:36:28+00:00,"We consider a surface $M$ immersed in $\mathbb{R}^3$ with induced metric
+$g=\psi\delta_2$ where $\delta_2$ is the two dimensional Euclidean metric. We
+then construct a system of partial differential equations that constrain $M$ to
+lift to a minimal surface via the Weierstrauss-Enneper representation demanding
+the metric is of the above form. It is concluded that the associated surfaces
+connecting the prescribed minimal surface and its conjugate surface satisfy the
+system. Moreover, we find a non-trivial symmetry of the PDE which generates a
+one parameter family of surfaces isometric to a specified minimal surface. We
+demonstrate an instance of the analysis for the helicoid and catenoid.",http://arxiv.org/pdf/math/0609654v2,math.DG,"['math.DG', 'math.CV', 'Primary 53A10; Secondary 30C55']"
