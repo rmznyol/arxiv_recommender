@@ -78,7 +78,6 @@ matplotlib-inline=0.1.6=pyhd8ed1ab_0
 mypy_extensions=1.0.0=pyha770c72_0
 ncurses=6.4=h7ea286d_0
 nest-asyncio=1.5.8=pyhd8ed1ab_0
-nltk=3.8.1=pyhd8ed1ab_0
 numpy=1.26.0=py312h696b312_0
 openssl=3.1.4=h0d3ecfb_0
 packaging=23.2=pyhd8ed1ab_0
